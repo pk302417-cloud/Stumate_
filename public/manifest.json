@@ -1,0 +1,16 @@
+{
+  "name": "Stumate — Campus Marketplace",
+  "short_name": "Stumate",
+  "description": "Buy your seniors' room essentials. Sell before you leave.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

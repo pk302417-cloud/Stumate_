@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /chats
+Disallow: /profile
+Disallow: /sell
+Disallow: /my-listings
+Disallow: /favorites
+
+Sitemap: /sitemap.xml
